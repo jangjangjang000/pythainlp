@@ -1,9 +1,9 @@
-nltk>=3.2.2
-future>=0.16.0
-six
-marisa-trie
-requests
 dill
+future>=0.16.0
+marisa-trie
+nltk>=3.2.2
 pytz
+requests
+six
 tinydb
 tqdm
